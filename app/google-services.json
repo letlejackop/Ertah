@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "99929967442",
+    "project_id": "ertah-569c1",
+    "storage_bucket": "ertah-569c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99929967442:android:5e193bca3c21d5e313c88b",
+        "android_client_info": {
+          "package_name": "com.example.ertah"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "99929967442-9fsl12thj8okc940962us4p7qld5663a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ertah",
+            "certificate_hash": "bd577ddd74e79b111cf86c41383d9c8b801de0db"
+          }
+        },
+        {
+          "client_id": "99929967442-fcm8jrnij247np25icadh6umcts7ra13.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIXnKHkiasEP-weHr4uy496Ifzouc1H5Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "99929967442-fcm8jrnij247np25icadh6umcts7ra13.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
